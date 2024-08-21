@@ -21,7 +21,8 @@ namespace PracticeSets_02
             {
                  Console.WriteLine(num);
             }
-            num++;  
+            num++;
+            }
         }
     }
 }
