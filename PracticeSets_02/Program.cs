@@ -18,10 +18,11 @@ namespace PracticeSets_02
             for (int i = 0; i <21; i++)
             {
                  if (num %2 ==0)
-            {
+                {
                  Console.WriteLine(num);
+                }
+                num++; 
             }
-            num++;  
         }
     }
 }
