@@ -13,6 +13,17 @@ namespace PracticeSets_02
             /*
              * Write a program that prints all the even numbers from 1 to 20 using a for loop.
              */
+
+            int num = 1;
+
+            for (int i = 0; i <20; i++)
+            {
+                 if (num %2 == 0)
+                {
+                 Console.WriteLine(num);
+                }
+                num++;
+            } 
         }
     }
 }
