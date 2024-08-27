@@ -1,11 +1,9 @@
 # Practice Sets 02
 
 ## Activities
-- Write a program that prints all the even numbers from 1 to 20 using a for loop.
-- Write a program that prints all the odd numbers from 1 to 20 using a for loop.
-
+- Write a program that takes a character as input and outputs whether it is a vowel or a consonant.
+- Write a program that takes a string as input and outputs whether it is a palindrome.
 ## Authors
-- Reymart O. Dela Cruz
 - Scott Franklin T. Maher
 - BSCS2 B1
 
