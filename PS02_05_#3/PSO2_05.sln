@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSO2_05", "PSO2_05\PSO2_05.csproj", "{CC4A8AEA-CE79-4503-BF5A-2BE45E430545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS02_05_number4", "PS02_05_number4\PS02_05_number4.csproj", "{99C99158-6E29-45B2-B4D2-347835A5BC9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4A8AEA-CE79-4503-BF5A-2BE45E430545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4A8AEA-CE79-4503-BF5A-2BE45E430545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4A8AEA-CE79-4503-BF5A-2BE45E430545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4A8AEA-CE79-4503-BF5A-2BE45E430545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C99158-6E29-45B2-B4D2-347835A5BC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C99158-6E29-45B2-B4D2-347835A5BC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C99158-6E29-45B2-B4D2-347835A5BC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C99158-6E29-45B2-B4D2-347835A5BC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
